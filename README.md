@@ -1,3 +1,30 @@
+### Код, та робота програми
+### На "трійку"
+
+![](screenshot/1.png)
+
+![](screenshot/2.png)
+
+![](screenshot/3.png)
+
+### На "чотири"
+
+
+
+![](screenshot/4.png)
+
+![](screenshot/5.png)
+
+![](screenshot/6.png)
+![](screenshot/7.png)
+![](screenshot/8.png)
+![](screenshot/9.png)
+![](screenshot/10.png)
+![](screenshot/11.png)
+
+
+
+
 # UI Lab 5
 ![](terminal-icon.png)
 ![](gui-icon.png)
